@@ -1,4 +1,7 @@
 # Installation
+
+**You need to have local admin access** to be able to install WSL. Without this, DevStart itself might be installed, but it will be unable to install WSL.
+
 Download the .exe file from [releases](https://github.com/techyon-io-horsing-around/devstart/releases). Download will be stopped and warned against, as file is not approved by Microsoft (yet). Do the following to get it despite the warning:
 
 <img width="463" height="344" alt="download" src="https://github.com/user-attachments/assets/c63f0bee-d814-417e-a5ec-fe2b97d75365" />
