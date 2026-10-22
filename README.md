@@ -21,3 +21,10 @@ Expand "Maintenance" in bottom of DevStart to
 
 ## Update DevStart
 DevStart checks after updates on start, and each hour. **It's safe an strongly recommended to update as soon as possible.** You might also manually trigger check by clicking on the button right of the version information in to of the app. You will see tip on restart app to update about this place if update exists. Just click on it, and devstart will download, update and restart it self. Your running linux VM will continue in the background and not be affected by the update. **Please keep DevStart updated. It will not destroy you linux VM or any of your work on it.**
+
+### Update your vm with new tasks etc.
+New versions of DevStart might have new tasks steps or other improvements which can be nice to have in your development environment. To update your VM with the last updates from last version of DevStart:
+* Open DevStart
+* Below **"Tasks and maintenance"**, run **"Install welcome message"**
+
+  
